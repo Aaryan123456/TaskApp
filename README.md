@@ -1,11 +1,11 @@
-# Sample Snack app
+# Task App
+Its just a app to list all your task in a place in case if you ever forget one you can just open the app and see your tasks.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+How to use the app:
+Write a task down in the "Write The Task" space and click add to add that specific task.
+You can remove a task just by clicking on a that task.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+For Example:
+If I add a task named feed the dog or complete your assignment and I have completed that task then I will click on the task to remove it from the app.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Thank you
